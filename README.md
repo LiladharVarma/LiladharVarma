@@ -11,3 +11,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liladharvarma&show_icons=true&locale=en&layout=compact" alt="liladharvarma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liladharvarma&show_icons=true&locale=en" alt="liladharvarma" /></p>
+<img width="84" alt="Screenshot 2023-09-27 133508" src="https://github.com/LiladharVarma/LiladharVarma/assets/110517645/645f957c-249a-4018-80d2-2f0b77f2c40d">
+
