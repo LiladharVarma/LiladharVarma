@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liladhar Varma</h1>
 <h3 align="center">Embracing the Tech Journey: Striving to Excel as a Java Developer from India</h3>
 
-- 🌱 I’m currently learning **Java DSA and Spring**
+- 🌱 I’m currently learning Full Stack Web Development.
 
 </p>
 
