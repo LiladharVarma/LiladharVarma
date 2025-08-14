@@ -3,11 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development , DSA , Java**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio1292-react.netlify.app/](https://myportfolio1292-react.netlify.app/)
-
 - 💬 Talks about **DSA , Problem Solving ,Improving Skills**
-
-- 📫 How to reach me **liladharvarma29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
